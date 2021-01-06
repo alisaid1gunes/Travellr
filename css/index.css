@@ -1,0 +1,15 @@
+.arkaplan{
+    background: url("/img/left-image.png") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100vh;
+border-radius: 40px;
+  
+    
+   
+}
+.uzunkolon{
+    height: 75vh;
+}
