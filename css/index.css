@@ -13,3 +13,60 @@ border-radius: 40px;
 .uzunkolon{
     height: 75vh;
 }
+.nav-item{
+ 
+}
+#profile{
+    background-color: #FCACAB;
+ height: 7vh;
+ width: 7vh;
+ justify-content: center;
+   
+   
+}
+.negative{
+    margin-top: -2vh;
+}
+.solamargin{
+    margin-left:7vh;
+}
+.gray{
+    background-color: #EBEBEB;
+    height: 6vh;
+
+
+}
+
+#arkaplan-sol-alt{
+    background: url("/img/left-bottom.png") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 45h;
+    width: 30vh;
+border-radius: 40px;
+  
+    
+   
+}
+#arkaplan-sag-alt{
+    background: url("/img/right-bottom.png") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 45vh;
+    width: 30vh;
+border-radius: 40px;
+  
+    
+   
+}
+.input{
+    background-color: #EBEBEB;
+    width: 55vh;
+}
+.input:focus{
+    outline:none;
+}
