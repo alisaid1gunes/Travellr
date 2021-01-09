@@ -1,4 +1,4 @@
-.arkaplan{
+.background{
     background: url("/img/left-image.png") no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10,7 +10,7 @@ border-radius: 40px;
     
    
 }
-.uzunkolon{
+.long-col{
     height: 75vh;
 }
 .nav-item{
@@ -27,9 +27,7 @@ border-radius: 40px;
 .negative{
     margin-top: -2vh;
 }
-.solamargin{
-    margin-left:7vh;
-}
+
 .gray{
     background-color: #EBEBEB;
     height: 6vh;
@@ -37,7 +35,7 @@ border-radius: 40px;
 
 }
 
-#arkaplan-sol-alt{
+#background-left-bottom{
     background: url("/img/left-bottom.png") no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -50,7 +48,7 @@ border-radius: 40px;
     
    
 }
-#arkaplan-sag-alt{
+#background-right-bottom{
     background: url("/img/right-bottom.png") no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
